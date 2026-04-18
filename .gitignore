@@ -12,3 +12,8 @@ desktop.ini
 *.bak
 *.tmp
 *.swp
+
+# Temporary uploads
+kwai-lab-lp-aplha1.1/
+kwai-lab-lp-aplha1.1.zip
+__MACOSX/
