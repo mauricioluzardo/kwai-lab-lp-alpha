@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/bg/
+Disallow: /assets/icon/
+
+Sitemap: https://liveacademybrasil.com.br/sitemap.xml
