@@ -581,7 +581,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  $$('a[href*="wa.me"], a[href*="k.kwai.com"], a[href*="kwai-video.com"]').forEach(a => {
+  $$('a[href*="wa.me"], a[href*="k.kwai.com"], a[href*="kwai-video.com"], a[href*="instagram.com"], a[href*="facebook.com"]').forEach(a => {
     a.addEventListener('click', function (e) {
       handleWhatsAppCTA(e, this.href);
     });
